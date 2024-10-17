@@ -94,20 +94,6 @@ Here are the main API endpoints for managing the comic book inventory:
 
 To test the API endpoints, you can import the provided Postman collection (`comic-book-store.postman_collection.json`) into Postman.
 
-### Project Structure
-
-```plaintext
-ComicBook/
-│
-├── controllers/         # API route handlers
-├── models/              # Mongoose models
-├── routes/              # API routes
-├── server.js            # Entry point to the application
-├── .env.example         # Example environment variables
-├── package.json         # Project dependencies
-├── README.md            # Project documentation
-└── comic-book-store.postman_collection.json  # Postman Collection for API testing
-```
 
 ## Contributing
 
