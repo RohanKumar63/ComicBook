@@ -24,6 +24,8 @@ This project is the backend API for a comic book e-commerce store. It allows the
 
 - **Node.js** installed on your machine.
 - **MongoDB** (either installed locally or a cloud instance, e.g., MongoDB Atlas).
+-- i am using mongoDBCompass (Desktop Version)
+**In this code if you want to use MongoDB Atlas Please change the .env file and mongoose code.
 
 ### Installation
 
