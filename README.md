@@ -117,7 +117,4 @@ If you’d like to contribute, please fork the repository and use a feature bran
 4. Push to the branch (`git push origin feature-branch`)
 5. Create a new Pull Request
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
